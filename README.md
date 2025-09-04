@@ -54,3 +54,8 @@ This website is designed to work on modern browsers including:
 - Firefox
 - Safari
 - Edge
+- Email: rziguiyassir@gmail.com 
+- LinkedIn: [Yassir Rzigui](https://linkedin.com/in/yassir-rzigui) 
+ 
+## License 
+MIT License - Feel free to use this code for learning and development purposes. 
